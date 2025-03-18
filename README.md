@@ -1,4 +1,4 @@
-# Deep Features Nifti Network (DEN)
+# Deep Extraction Network (DEN)
 This repository defines a sequential Convolutional Neural Network (CNN) model (18 layers) that extracts deep features from Nifti MRI files of segmented glioblastoma tumours
 ![DENnetwork](https://github.com/prazg/Deep-Features-Nifti-Network-DEN/assets/107046434/960b9016-a6d6-45d0-820d-73375297e4d8)
 
